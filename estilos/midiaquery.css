@@ -52,12 +52,12 @@ grande telas: 1281px e a frente
 div.campo > input{
     background-color: rgb(255, 255, 255);
     width: calc(99% - 12%);
-    transform: translateY(-12px);
     font-size: 1em;
     height: 100%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
+    transform: translateY(-12px);
 }
 
 form > div.campo {
@@ -123,12 +123,12 @@ div.campo > span {
 div.campo > input{
     background-color: rgb(255, 255, 255);
     width: calc(99% - 8%);
-    transform: translateY(-12px);
     font-size: 1em;
     height: 100%;
     border: 0px;
     border-radius: 8px;
     padding: 4px;
+    transform: translateY(-12px);
 }
 
 
