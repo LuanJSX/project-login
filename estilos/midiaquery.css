@@ -11,6 +11,11 @@ grande telas: 1281px e a frente
 
 
  @media screen and (min-width: 768px) and (max-width: 992px) {
+
+  body{
+    background-image: linear-gradient(to top, #026666, #282066);
+  }
+
     section#login {
   width: 95vw;
 

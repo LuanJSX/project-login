@@ -37,6 +37,7 @@ section#login {
     box-shadow: 10px 10px 10px white (0, 0, 0, 0.450);
 
     transition: width 1s, height 1s;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
