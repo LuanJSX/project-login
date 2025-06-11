@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/* Cores  #026666 282066*/
+
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body, html {
+
+    background-color: #282066;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+main {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section#login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: white;
+    width: 250px;
+    height: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px white (0, 0, 0, 0.450);
+
+    transition: width 1s, height 1s;
+}
+
+section#login > div#imagem {
+    display: block;
+    background: url(../img/Frame\ 5.png);
+    background-size: cover;
+    height: 300px;
+    background-position: center center;
+
+}
+
+section#login > div#formulario {
+    display: block;
+    padding: 10px;
+}
