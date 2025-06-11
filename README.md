@@ -18,13 +18,8 @@ Este projeto foi desenvolvido como parte do meu aprendizado em HTML e CSS atrav�
 <br>
 ## 📁 Estrutura do Projeto
 
-📦 project-login
-├── index.html
-├── estilos/
-│ └── style.css
-├── img/
-│ └── (imagens usadas no projeto)
-└── README.md
+![code](https://github.com/user-attachments/assets/76df903a-57d1-45b7-bb29-973cfb684d3d)
+
 
 ## 💡 Objetivo
 
