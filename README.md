@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado em HTML e CSS atravÃ
 <br>
 ## ğŸ“ Estrutura do Projeto
 
-<img src="https://github.com/user-attachments/assets/76df903a-57d1-45b7-bb29-973cfb684d3d" alt="Logo" width="200"/>
+![code](https://github.com/user-attachments/assets/76df903a-57d1-45b7-bb29-973cfb684d3d)
 
 
 
