@@ -49,11 +49,42 @@ grande telas: 1281px e a frente
     
 } 
 
+div.campo > input{
+    background-color: rgb(255, 255, 255);
+    width: calc(99% - 12%);
+    transform: translateY(-12px);
+    font-size: 1em;
+    height: 100%;
+    border: 0px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+form > div.campo {
+ 
+    background-color: #282066;
+    border: 2px solid #282066;
+    display: block;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
+
+
+div.campo > span {
+    color: white;
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+}
+
 }
 
 @media screen and (min-width: 992px) {
   section#login {
-    width: 900px;
+    width: 920px;
   }
   section#login > div#imagem {
     float: right;
@@ -89,4 +120,16 @@ grande telas: 1281px e a frente
     
     
 } 
+div.campo > input{
+    background-color: rgb(255, 255, 255);
+    width: calc(99% - 8%);
+    transform: translateY(-12px);
+    font-size: 1em;
+    height: 100%;
+    border: 0px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+
 }
